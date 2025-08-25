@@ -1,3 +1,56 @@
+
+
+
+<div align="center">
+
+<div align="center">
+
+# Welcome to My Digital Atelier
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" height="120px"/>
+
+
+</div>
+
+
+
+## About Me
+
+<table width="100%">
+<tr>
+<td width="70%">
+
+**George Ionescu** — Senior Full Stack AI Architect crafting digital excellence from Buenos Aires, where passion meets precision and tango meets technology.
+
+I transform complex business challenges into elegant solutions that users love and stakeholders celebrate. While others chase trends, I deliver results that matter.
+
+```javascript
+const georgeIonescu = {
+  name: "George Ionescu",
+  title: "Senior Full Stack AI Architect", 
+  location: "Buenos Aires, Argentina 🇦🇷",
+  philosophy: "Elegant solutions for real-world problems",
+  expertise: ["AI Integration", "3D Web Experiences", "Scalable APIs"],
+  approach: "Business impact × Technical excellence",
+  promise: "Your success is my mission"
+}
+```
+
+**What sets me apart:** I speak business fluent, code enterprise-grade, and deliver on time, every time.
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=George-Ionescu-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E5E7EB&hide_title=true&hide_rank=true&custom_title=" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Expertise
+
 <table align="center">
   <tr>
     <td align="center" width="116">
@@ -157,68 +210,6 @@
  </tr>
 </table>
 
-
-<div align="center">
-
-<div align="center">
-
-# Welcome to My Digital Atelier
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=2800&pause=800&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=George+Ionescu+%E2%80%A2+Full+Stack+AI+Architect;Transforming+Ideas+into+Digital+Masterpieces;From+Buenos+Aires+to+the+World+%F0%9F%87%A6%F0%9F%87%B7;%2440%2Fhr+%E2%80%A2+Your+Vision%2C+My+Expertise)
-
-</div>
-
----
-
-## About Me
-
-<table width="100%">
-<tr>
-<td width="70%">
-
-**George Ionescu** — Senior Full Stack AI Architect crafting digital excellence from Buenos Aires, where passion meets precision and tango meets technology.
-
-I transform complex business challenges into elegant solutions that users love and stakeholders celebrate. While others chase trends, I deliver results that matter.
-
-```javascript
-const georgeIonescu = {
-  name: "George Ionescu",
-  title: "Senior Full Stack AI Architect", 
-  location: "Buenos Aires, Argentina 🇦🇷",
-  philosophy: "Elegant solutions for real-world problems",
-  expertise: ["AI Integration", "3D Web Experiences", "Scalable APIs"],
-  approach: "Business impact × Technical excellence",
-  promise: "Your success is my mission"
-}
-```
-
-**What sets me apart:** I speak business fluent, code enterprise-grade, and deliver on time, every time.
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=George-Ionescu-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E5E7EB&hide_title=true&hide_rank=true&custom_title=" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## Technical Expertise
-
-### Frontend Development
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,typescript,tailwind&theme=dark" />
-</div>
-
-### Backend & APIs
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs&theme=dark" />
-</div>
-
 ### AI & Data
 <div align="center">
 
@@ -228,10 +219,6 @@ const georgeIonescu = {
 
 </div>
 
-### Databases & Storage
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" />
-</div>
 
 ---
 
